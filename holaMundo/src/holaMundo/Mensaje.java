@@ -4,6 +4,11 @@ import java.util.Date;
 //shift+alt+r -> Refactorizar
 //alt + s -> source
 	// dentro, una letra de las subrayadas para abrir lo que necesites
+//F3-> lleva al origen del elemento
+//alt+shift+z abre un menu para usar x metodos
+// ctrl+shift+p pasar al hermano del parentesis, llave, corchete
+//ctl+shift+T se va hacia una clase ya creada
+
 
 public class Mensaje {
 	//Atributos
